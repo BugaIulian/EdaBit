@@ -1,4 +1,5 @@
 public class HowMuchIsTrue {
+
     public static void main(String[] args) {
 
         boolean[] tOF = {true, false, false, true, false};

@@ -1,4 +1,5 @@
 public class CheckStringEnding {
+
     public static void main(String[] args) {
         checkEnding("feminine", "nine");
     }
