@@ -2,7 +2,7 @@
 public class StringOrInteger {
 
     public static void main(String[] args) {
-        Object object = new StringOrInteger();
+        Object object = new Object();
         check(object);
     }
 
