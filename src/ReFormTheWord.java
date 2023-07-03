@@ -7,5 +7,4 @@ public class ReFormTheWord {
     private static String getWord(String left, String right) {
         return left.substring(0,1).toUpperCase() + left.substring(1) + right;
     }
-
 }
